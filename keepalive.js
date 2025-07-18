@@ -1,6 +1,5 @@
 
 let applications = [
-    "http://localhost:8000/keepalive",
     "https://quwad.onrender.com",
     "https://todo-backend-6cpu.onrender.com",
     "https://careerda-backend.onrender.com",
