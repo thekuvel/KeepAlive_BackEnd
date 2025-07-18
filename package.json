@@ -1,0 +1,17 @@
+{
+  "name": "keppalive_backend",
+  "version": "1.0.0",
+  "description": "Application to ping servers and keep them alive.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express-server": "node --watch server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
